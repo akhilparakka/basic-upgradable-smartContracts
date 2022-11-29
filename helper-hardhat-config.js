@@ -1,0 +1,1 @@
+const developmentChains = ["hardhat", "localhost"]
